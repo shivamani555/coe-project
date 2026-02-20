@@ -1,0 +1,12 @@
+#requirements.txt
+#Install requirements.txt file using pip:
+pip install -r requirements.txt
+
+streamlit == 1.28.1
+pandas == 2.1.3
+numpy == 1.24.3
+scikit-learn == 1.3.2
+joblib == 1.3.2
+plotly == 5.18.0
+matplotlib == 3.8.2
+seaborn == 0.13.0
